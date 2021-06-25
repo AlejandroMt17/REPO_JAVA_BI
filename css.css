@@ -1,0 +1,12 @@
+body{
+    background-color: gainsboro;
+}
+.text{
+    color: blue;
+} 
+#texttab{
+    color: green;
+}
+.desaparecido{
+	display: none;
+}
